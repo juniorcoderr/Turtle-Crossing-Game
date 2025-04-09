@@ -70,7 +70,7 @@ You can download Python from [python.org](https://www.python.org/downloads/)
 
 ```bash
 git clone https://github.com/juniorcoderr/Turtle-Crossing-Game.git
-cd turtle-crossing-game
+cd Turtle-Crossing-Game
 ```
 
 Or simply download the ZIP and extract it.
